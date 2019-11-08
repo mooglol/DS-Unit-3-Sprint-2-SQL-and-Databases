@@ -37,6 +37,11 @@ so here. Then answer the following question (can be a comment in the top of your
 code or in Markdown) - "How was working with MongoDB different from working with
 PostgreSQL? What was easier, and what was harder?"
 
+(My answer):
+MongoDB was different due to how the data is structured - in PostgreSQL the data
+was structured by tables, where as MongoDB works with data that is more unrelated
+and not structured by tables.
+
 There is no other required tasks to turn in, but it is suggested to then revisit
 the first two modules, rework/complete things as needed, and just check out with
 fresh eyes the SQL approach. Compare and contrast, and come with questions
